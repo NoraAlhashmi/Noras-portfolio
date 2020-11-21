@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Neo_Sans_Medium';
+   font-display: swap;
+   src: url('Neo_Sans_Medium/font.ttf');
+}
+@font-face {
+   font-family: 'NeoSansArabicLight';
+   font-display: swap;
+   src: url('NeoSansArabicLight/font.ttf');
+}
